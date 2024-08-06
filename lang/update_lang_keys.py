@@ -17,7 +17,7 @@ if os.path.isfile(lang_filename):
 
 with open(os.path.join(dirname, "materials.txt"), "r", encoding="utf-8") as materials_file:
     for material in materials_file:
-        material = material.strip()
+        material = material.strip().split(" ", 2)[0].strip()
         if material:
             key = "jaopca.material."+material
             if key not in lang:
