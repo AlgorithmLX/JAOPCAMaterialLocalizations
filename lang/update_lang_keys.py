@@ -1,12 +1,6 @@
 import json
 import os
 
-def split_and_capitalize(string: str):
-    if not string:
-        return ""
-    ret = [s.capitalize() for s in string.split("_")]
-    return " ".join(ret)
-
 dirname = os.path.dirname(__file__)
 
 name = input("Lang file: ")
@@ -33,7 +27,7 @@ with open(os.path.join(dirname, "materials.txt"), "r", encoding="utf-8") as mate
                 if key in default_lang:
                     lang[key] = default_lang[key]
                 else:
-                    lang[key] = split_and_capitalize(material)
+                    lang[key] = ""
 
 with open(lang_filename, "w", encoding="utf-8") as lang_file:
     json.dump(lang, lang_file, ensure_ascii=False, indent="\t", sort_keys=True)
