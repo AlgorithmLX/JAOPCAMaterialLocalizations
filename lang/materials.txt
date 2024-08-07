@@ -21,6 +21,7 @@ AlchemyMana
 Alduorite
 Alexandrite
 AlexandriteSuper
+Alkimium
 Alloy
 Almandine
 Alubrass
@@ -795,6 +796,7 @@ Onyx
 OnyxSuper
 Opal
 OpalSuper
+Orichalcos
 Orichalcum
 Ornamyte
 Osgloglas
@@ -828,6 +830,7 @@ Phosphorous
 PhosphorousPentoxide
 Phosphorus
 PhosphorusPentoxide
+Photonium
 PigIron
 Pigiron
 PinkSlime
@@ -884,6 +887,7 @@ Potin
 Powellite
 Praseodymium
 PreciousIron
+Prehnite
 Primordial
 Prismarine
 Prismarinium
@@ -933,6 +937,7 @@ RawRubber
 RawStyreneButadieneRubber
 Realgar
 RedAlloy
+RedAurum
 RedDiamond
 RedGarnet
 RedGem
@@ -1003,6 +1008,7 @@ Shadow
 ShadowIron
 ShadowSecretGold
 ShadowSteel
+Shadowium
 Shibuichi
 Shyregem
 Shyrestone
