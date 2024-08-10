@@ -134,6 +134,7 @@ caminite_brick
 caprolactam
 carbon
 carbon_manganese
+carbonic_fluix
 carminite
 carnelian
 carobbiite
@@ -212,6 +213,7 @@ desh
 diamond
 diatomite
 diethylenetriaminepentaacetic_acid
+dilithium
 dimensional_blend
 diorite
 divine
@@ -282,6 +284,8 @@ flint
 flour
 flourite
 fluix
+fluix_iron
+fluix_steel
 fluorite
 flux_infused
 force
@@ -652,6 +656,7 @@ refined_obsidian
 refined_radiance
 regalium
 reinforced_epoxy_resin
+resonating
 retium
 rhodium
 rhodium_plated_palladium
@@ -776,6 +781,7 @@ terrasteel
 tetrahedrite
 thallasium
 thallium
+thermite
 thermoconducting
 thorium
 thounite
